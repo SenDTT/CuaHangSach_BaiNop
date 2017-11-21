@@ -1,0 +1,14 @@
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSachTest\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSachTest\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSachTest\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.deps.json
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.runtimeconfig.json
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.runtimeconfig.dev.json
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.dll
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.pdb
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.csprojResolveAssemblyReference.cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.csproj.CoreCompileInputs.cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.AssemblyInfoInputs.cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.AssemblyInfo.cs
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.dll
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSachTest\Debug\netcoreapp2.0\CuaHangSachTest.pdb

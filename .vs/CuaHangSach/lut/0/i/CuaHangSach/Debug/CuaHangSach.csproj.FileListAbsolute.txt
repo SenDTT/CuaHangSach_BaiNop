@@ -1,0 +1,12 @@
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSach\bin\Debug\CuaHangSach.exe.config
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSach\bin\Debug\CuaHangSach.exe
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\b\CuaHangSach\bin\Debug\CuaHangSach.pdb
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.frmDangNhap.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.PhanQuyenDanhChoQL.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.PhanQuyenNhanVienKK.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.PhanQuyenNhanVienTN.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.Properties.Resources.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.csproj.GenerateResource.Cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.csproj.CoreCompileInputs.cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.exe
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\.vs\CuaHangSach\lut\0\i\CuaHangSach\Debug\CuaHangSach.pdb

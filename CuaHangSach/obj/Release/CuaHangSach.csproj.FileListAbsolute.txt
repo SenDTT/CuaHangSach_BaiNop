@@ -1,0 +1,13 @@
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Release\CuaHangSach.exe.config
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Release\CuaHangSach.exe
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\bin\Release\CuaHangSach.pdb
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.csprojResolveAssemblyReference.cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.frmDangNhap.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.PhanQuyenDanhChoQL.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.PhanQuyenNhanVienKK.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.PhanQuyenNhanVienTN.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.Properties.Resources.resources
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.csproj.GenerateResource.Cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.csproj.CoreCompileInputs.cache
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.exe
+C:\Users\CamTu\Desktop\CuaHangSach\CuaHangSach\CuaHangSach\obj\Release\CuaHangSach.pdb
